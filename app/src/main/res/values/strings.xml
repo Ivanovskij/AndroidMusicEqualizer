@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab4_1</string>
+
+    <string name="btnStartPlay">||</string>
+    <string name="btnNext">&gt;&gt;</string>
+    <string name="btnPrev">&lt;&lt;</string>
+
+    <string name="allSongs">View all songs</string>
+    <string name="createPlaylist">Create playlist</string>
+
+</resources>
